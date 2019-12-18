@@ -30,6 +30,3 @@ Goutte - https://github.com/FriendsOfPHP/Goutte
 
 ## Contact information
 Twitter - <a href = 'https://twitter.com/_tackie_'>@_tackie_</a>
-
-## License
-MIT
